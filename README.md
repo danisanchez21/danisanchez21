@@ -19,6 +19,7 @@ Soy un desarrollador Full Stack entusiasta de la programación y en constante ap
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-66CCFF?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Astro-9F6FFF?style=flat&logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
