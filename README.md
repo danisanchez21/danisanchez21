@@ -10,34 +10,45 @@ Soy un desarrollador Full Stack entusiasta de la programación y en constante ap
 
 ## 🛠️ Tech Stack
 
+<!-- ===== Tech Stack badges (no clicables) ===== -->
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-66CCFF?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Astro-9F6FFF?style=flat&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <!-- Front-end -->
+  <picture><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"                    alt="HTML5"        /></picture>
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/-CSS3-1572B6?logo=css-wh-3&amp;logoColor=white&amp;style=flat" alt="CSS3" /></picture>
+  <picture><img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white"                      alt="SCSS"         /></picture>
+  <picture><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"    alt="Tailwind CSS" /></picture>
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/Twig-c1d026?logo=twig&amp;logoColor=black&amp;style=flat" alt="Twig" /></picture>
+  <picture><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"          alt="JavaScript"  /></picture>
+  <picture><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"          alt="TypeScript"  /></picture>
+  <picture><img src="https://img.shields.io/badge/-React-66CCFF?style=flat&logo=react&logoColor=black"                    alt="React"        /></picture>
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/Java-F8981D?logo=oracle-java&amp;logoColor=white&amp;style=flat" alt="Java" /></picture>
+  <picture><img src="https://img.shields.io/badge/-Astro-9F6FFF?style=flat&logo=astro&logoColor=white"                    alt="Astro"        /></picture>
+  <picture><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white"                 alt="Node.js"      /></picture>
+  <picture><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"            alt="Bootstrap"    /></picture>
+  <picture><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"                alt="Postman"      /></picture>
+  <picture><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"                alt="MongoDB"      /></picture>
+  <picture><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"                    alt="MySQL"        /></picture>
+  <picture><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"          alt="PostgreSQL"   /></picture>
+  <picture><img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=icons8-microsoft-sql-server&amp;logoColor=white&amp;style=flat" alt="SQL Server" /></picture>
+  <picture><img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"          alt="Azure"        /></picture>
+  <picture><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"                        alt="Git"          /></picture>
 </p>
+
 
 ## 📚 Actualmente aprendiendo estas tecnologias 
 
 <p>
 
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=Kotlin&logoColor=white">
+  <picture><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white"></picture>
+ <picture><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=Kotlin&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></picture>
+<picture><img
+  src="https://img.shields.io/badge/-Symfony-FFFFFF?style=flat&logo=symfony&logoColor=000000"
+  alt="Symfony badge"
+  height="20"
+  style="border:1px solid #000; border-radius:4px;"></picture>
+
 </p>
 
 ## 📈 GitHub Stats
